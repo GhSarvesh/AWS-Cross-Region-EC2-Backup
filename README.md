@@ -22,9 +22,9 @@ This project demonstrates how to configure AWS Backup to back up an EC2 instance
 
 **Optional: Created Test Directory:**
 
-mkdir ~/testbackup
-touch ~/testbackup/file{1..5}.txt
-echo "Backup test content" > ~/testbackup/file1.txt
+sudo mkdir /testbackup
+sudo touch /test-backup/file{1..5}.txt
+echo "This is a test file for AWS Backup" | sudo tee /testbackup/file1.txt
 
 ---
 
