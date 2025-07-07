@@ -9,6 +9,17 @@ This project demonstrates how to configure AWS Backup to back up an EC2 instance
 
 ---
 
+## 🛠️ Technologies Used
+
+- **Amazon EC2** — Virtual server hosting in AWS  
+- **AWS Backup** — Automated backup service for EC2 instances  
+- **AWS Backup Vaults** — Secure storage for backup recovery points  
+- **Cross-Region Backup Replication** — Backup replication to a different AWS region for disaster recovery  
+- **Amazon Linux 2023 / Ubuntu** — EC2 instance operating system  
+- **Git** — Version control system for managing project code  
+- **SCP (Secure Copy Protocol)** — For transferring files securely between local machine and EC2 instance  
+- **Markdown** — For creating project documentation  
+
 ## 📖 Steps to Configure Cross-Region Backup
 
 ### 1️⃣ Launch an EC2 Instance
