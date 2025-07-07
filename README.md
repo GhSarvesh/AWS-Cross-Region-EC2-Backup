@@ -24,7 +24,6 @@ This project demonstrates how to configure AWS Backup to back up an EC2 instance
 ```bash
 sudo mkdir /test-backup
 sudo touch /test-backup/file{1..5}.txt
-
 echo "This is a test file for AWS Backup" | sudo tee /test-backup/file1.txt
 
 ```
