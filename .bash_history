@@ -112,3 +112,5 @@ git commit -m aws-cross-region-commit
 git push origin master
 ls
 exit
+ls
+exit
