@@ -18,7 +18,6 @@ This project demonstrates how to configure AWS Backup to back up an EC2 instance
 - **Amazon Linux 2023 / Ubuntu** — EC2 instance operating system  
 - **Git** — Version control system for managing project code  
 - **SCP (Secure Copy Protocol)** — For transferring files securely between local machine and EC2 instance  
-- **Markdown** — For creating project documentation  
 
 ## 📖 Steps to Configure Cross-Region Backup
 
