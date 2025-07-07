@@ -37,7 +37,8 @@ echo "Backup test content" > ~/testbackup/file1.txt
 
 ![Backup Vaults](screenshots/vaults.png)
 
-! [Backup Vaults](screenshots/vault2.png)
+![Backup Vaults](screenshots/vault2.png)
+
 ---
 
 ### 3️⃣ Create a Backup Plan and Rule with Cross-Region Copy
