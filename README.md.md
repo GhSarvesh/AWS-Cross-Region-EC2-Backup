@@ -133,13 +133,3 @@ Test via:
 - 📸 EC2 Recovery Point in Destination Region
 
 ---
-
-## 👨‍💻 Author
-
-**Sarvesh Ghankhede**
-
----
-
-## 📜 License
-
-This project is for personal learning and demo purposes.
