@@ -124,12 +124,3 @@ Test via:
 | Delay in job status updates | Monitored via AWS Backup CLI and allowed time for job processing |
 
 ---
-
-## ✅ Deliverables (Attached Screenshots)
-
-- 📸 Source and Destination Backup Vaults
-- 📸 Backup Plan Configuration
-- 📸 Backup Jobs and Copy Jobs
-- 📸 EC2 Recovery Point in Destination Region
-
----
